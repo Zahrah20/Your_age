@@ -1,0 +1,6 @@
+'''
+this project is a simple Example about commands of inputs and outputs ...
+'''
+#The variable 'your_age' is to storing the age and his datatype is Number...
+your_age = input('How Old Are You ?')   #This line is to Ask User about his age
+print("You are ", your_age, " Years Old")  #This line is to print the results
